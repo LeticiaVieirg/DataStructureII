@@ -1,4 +1,4 @@
-#Exercicio
+# Exercicio
 
 Considere os seguintes tempos para o algoritmo abaixo
 - Chamada Recursiva: 2 ns
